@@ -9,12 +9,12 @@ This project demonstrates various text summarization techniques using the LangCh
 - **`text_summarization.ipynb`**: Jupyter notebook demonstrating the text summarization techniques.
 
 ## Setup
-2. **Install dependencies**:
+1. **Install dependencies**:
     ```sh
     pip install -r requirements.txt
     ```
 
-3. **Set up environment variables**:
+2. **Set up environment variables**:
     - Create a `.env` file in the root directory.
     - Add the following environment variables:
       ```env
